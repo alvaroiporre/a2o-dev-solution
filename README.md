@@ -15,7 +15,7 @@ The goal of this test is to know the skill level of the Web App Developer Candid
 ## Technologies Used
 
 - **Backend**: Laravel 8.x
-- **Frontend**: React 17.x && Tailwindcss
+- **Frontend**: React 17.x & Tailwindcss
 
 ## Prerequisites
 
